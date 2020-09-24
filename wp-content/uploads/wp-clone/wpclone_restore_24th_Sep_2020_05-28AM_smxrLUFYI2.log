@@ -1,0 +1,310 @@
+Thursday, 24-Sep-2020 05:28:26 - restore started
+Thursday, 24-Sep-2020 05:28:26 - wp version     : 5.4
+Thursday, 24-Sep-2020 05:28:26 - php version    : 7.3.12
+Thursday, 24-Sep-2020 05:28:26 - mysql version  : 5.5.5
+Thursday, 24-Sep-2020 05:28:26 - memory limit   : 1024M
+Thursday, 24-Sep-2020 05:28:26 - execution time : 600
+Thursday, 24-Sep-2020 05:28:26 - mysql timeout  : 
+Thursday, 24-Sep-2020 05:28:26 - socket timeout : 600
+Thursday, 24-Sep-2020 05:28:26 - file download started
+Thursday, 24-Sep-2020 05:28:27 - download finished, filesize - 78.44 MB
+Thursday, 24-Sep-2020 05:28:27 - extracting database using ziparchive
+Thursday, 24-Sep-2020 05:28:27 - database import started
+Thursday, 24-Sep-2020 05:28:27 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "http://localhost/Nicco", "yes")"
+Thursday, 24-Sep-2020 05:28:28 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"<ul>
+ 	<li>
+					<a href=\"#\">
++977 9848983054
+</a></li>
+</ul>
+<h1>Welcome to ' at line 1 - query : "INSERT INTO wp_posts VALUES("572", "1", "2020-04-14 11:52:39", "2020-04-14 11:52:39", "<ul>
+ 	<li>
+					<a href=\"#\">
++977 9848983054
+</a></li>
+</ul>
+<h1>Welcome to Nicco Hotel!!</h1>
+\"It\'s not Perfect....It\'s Paradise\". The mission of our hotel is to provide outstanding lodging facilities and services to our guests. Our hotel focuses on individual business and leisure travel, safety and security of the hotel, clean and comfortable rooms, as well as travel associated with groups meetings.
+
+<a href=\"#\" role=\"button\">
+HAVE A VISIT ONCE!!
+</a>
+<h6>Need Help?</h6>
+<h3>Message Us</h3>
+[wpforms id=\"485\"]
+<h2>OUR SERVICES</h2>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/tasty.png\" alt=\"\">								</a>
+<h6>Hygienic Food</h6>
+<a href=\"#\">The role of <b>Hotel Nicco</b> in regards to Food Service is to ensure that whether customer\'s consuming food is prepared in safe conditions or not, out of fresh foods, and is thoroughly cooked to prevent food poisoning.  Our Hotel look after the customers health.</a>
+<a href=\"#\">
+<img width=\"259\" height=\"194\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/serve.png\" alt=\"\">								</a>
+<h6>serve well</h6>
+<a href=\"#\">Not matter how much hotels innovate, there are still some \"basic\" requirements that all properties should meet to make their experiences both welcoming and comforting to guests.</a>
+<a href=\"#\">
+<img width=\"235\" height=\"215\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/hd.png\" alt=\"\">								</a>
+<h6>Free home delivery</h6>
+<a href=\"#\">Our food ordering system is completely free. There is no need for the customer to reach out and make a call meanwhile disturbing their privacy or disrupting a meeting for a lunch order.</a>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/r.png\" alt=\"\">								</a>
+<h6>Comfort rooms</h6>
+<a href=\"#\">The role of <b>Hotel Nicco</b> in regards to room service is to ensure guest satisfaction. Our Hotel provides cleanliness standards, offering clean bathrooms and bedrooms. Promotes safety, as guests are able to stay inside their hotel.</a>
+<h6>Who We Are</h6>
+<h2>About Us</h2>
+Welcome to NICCO HOTEL. Nicco Hotel is a small independent family run hotel in Baneshor, Kathmandu. It was established as a start-up business in June 4, 2020 with a mission to introduce Farwest Food to the people of Kathmandu.
+Nicco Hotel now in it\'s fourth year currently provides training and employment oppurtunities to over 20 Nepalese staffs. Nicco Hotel aspired to become one of the best hotel and want to fulfill the needs of people by providing unique dishes. Also it want to create more jobs and help the Nepalese economy.
+
+We aim to offer you comfortable surroundings, great food and excellent service to make your stay truly enjoyable. Even budget of our hotel is so convenient so that everyone could afford. The Hotel also has been an active supporter of social activities, providing support to aspiring entrepreneurs and encouraging local youth activities.
+Please take a look through our web site where you will find most of the information you need. Call us to discuss your hotel reservation, dining plans or function requirements.
+
+<a href=\"#\" role=\"button\">
+Read More
+</a>
+<h6>Find Some Unique Dishes</h6>
+<h2>Unique Listings</h2>
+<a href=\"#\">
+<img width=\"300\" height=\"168\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/6.jpg\" alt=\"\">								</a>
+<h6>Mada(made of rice flour)</h6>
+<a href=\"#\">
+<img width=\"330\" height=\"153\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/8.jpg\" alt=\"\" srcset=\"http://localhost/mysite/wp-content/uploads/2020/04/8.jpg 330w, http://localhost/mysite/wp-content/uploads/2020/04/8-300x139.jpg 300w\" sizes=\"(max-width: 330px) 100vw, 330px\">								</a>
+<h6>Bara</h6>
+<a href=\"#\">
+<img width=\"223\" height=\"226\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/9.jpg\" alt=\"\">								</a>
+<h6>Newari khana</h6>
+<a href=\"#\">
+<img width=\"512\" height=\"342\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/10.jpg\" alt=\"\" srcset=\"http://localhost/mysite/wp-content/uploads/2020/04/10.jpg 512w, http://localhost/mysite/wp-content/uploads/2020/04/10-300x200.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\">								</a>
+<h6>Selroti with aalu</h6>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/15.jpg\" alt=\"\">								</a>
+<h6>puri</h6>
+<a href=\"#\">
+<img width=\"284\" height=\"177\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/18.jpg\" alt=\"\">								</a>
+<h6>Abc</h6>
+<h6>We\'re Here To Help You</h6>
+<h2>What Are You Looking For?</h2>
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/welcome.png\" alt=\"\">
+<h3>warm welcome</h3>
+Hotel Nicco provides warm welcome to the guests. It is said that when making a great first impression, the first five seconds are key.&nbsp;&nbsp;A welcome goes beyond words, it creates a feeling of caring and gives a sense of pleasure. And our Hotel perform this role.&nbsp"
+Thursday, 24-Sep-2020 05:28:28 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<img width=\"265\" height=\"190\" src=\"http://localhost/mysite/wp-content/uploa' at line 1 - query : "<img width=\"265\" height=\"190\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/sm.png\" alt=\"\">
+<h3>Cheaper Price</h3>
+Our responsibilities is to manage the budget to maintain financial records, planning maintenance, events and the bookings for rooms.&nbsp;Access to a convenient as well as affordable food and lodging is turning from a plus to a must. We are very sure that Hotel Nicco would save your cost.
+
+<img width=\"205\" height=\"245\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/wifi.png\" alt=\"\">
+<h3>Free Wifi</h3>
+Hotel Nicco has fast and accessible network connection. Guests at all types of hotels demand some level of Internet service, but business hotels especially must offer the highest level of connectivity and flexibility.
+<h6>Trusted By</h6>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-05-free-img.png\" alt=\"logo-05-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-01-free-img.png\" alt=\"logo-01-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-02-free-img.png\" alt=\"logo-02-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-03-free-img.png\" alt=\"logo-03-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-04-free-img.png\" alt=\"logo-04-free-img.png\"></figure>
+Previous
+Next
+<ul>
+ 	<li>
+										+977 9848983054</li>
+</ul>
+<h2>Let\'s Find You Together The Place You Deserve</h2>
+We emphasise high quality standards in our rooms and food. Also, we provide a fair return on investment for our owners.
+
+Get in touch with us!!
+
+<a href=\"#\" role=\"button\">
+Thank You!!
+</a>", "Home", "", "inherit", "closed", "closed", "", "491-revision-v1", "", "", "2020-04-14 11:52:39", "2020-04-14 11:52:39", "", "491", "http://localhost/mysite/491-revision-v1/", "0", "revision", "", "0")"
+Thursday, 24-Sep-2020 05:28:28 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"<ul>
+ 	<li>
+					<a href=\"#\">
++977 9848983054
+</a></li>
+</ul>
+<h1>Welcome to ' at line 1 - query : "INSERT INTO wp_posts VALUES("640", "1", "2020-04-17 04:02:36", "2020-04-17 04:02:36", "<ul>
+ 	<li>
+					<a href=\"#\">
++977 9848983054
+</a></li>
+</ul>
+<h1>Welcome to Nicco Hotel!!</h1>
+\"It\'s not Perfect....It\'s Paradise\". The mission of our hotel is to provide outstanding lodging facilities and services to our guests. Our hotel focuses on individual business and leisure travel, safety and security of the hotel, clean and comfortable rooms, as well as travel associated with groups meetings.
+
+<a href=\"#\" role=\"button\">
+BOOK NOW
+</a>
+<h2>OUR SERVICES</h2>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/tasty.png\" alt=\"\">								</a>
+<h6>Hygienic Food</h6>
+<a href=\"#\">The role of <b>Hotel Nicco</b> in regards to Food Service is to ensure that whether customer\'s consuming food is prepared in safe conditions or not, out of fresh foods, and is thoroughly cooked to prevent food poisoning.  Our Hotel look after the customers health.</a>
+<a href=\"#\">
+<img width=\"259\" height=\"194\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/serve.png\" alt=\"\">								</a>
+<h6>serve well</h6>
+<a href=\"#\">Not matter how much hotels innovate, there are still some \"basic\" requirements that all properties should meet to make their experiences both welcoming and comforting to guests.</a>
+<a href=\"#\">
+<img width=\"235\" height=\"215\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/hd.png\" alt=\"\">								</a>
+<h6>Free home delivery</h6>
+<a href=\"#\">Our food ordering system is completely free. There is no need for the customer to reach out and make a call meanwhile disturbing their privacy or disrupting a meeting for a lunch order.</a>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/r.png\" alt=\"\">								</a>
+<h6>Comfort rooms</h6>
+<a href=\"#\">The role of <b>Hotel Nicco</b> in regards to room service is to ensure guest satisfaction. Our Hotel provides cleanliness standards, offering clean bathrooms and bedrooms. Promotes safety, as guests are able to stay inside their hotel.</a>
+<h6>Who We Are</h6>
+<h2>About Us</h2>
+Welcome to NICCO HOTEL. Nicco Hotel is a small independent family run hotel in Baneshor, Kathmandu. It was established as a start-up business in June 4, 2020 with a mission to introduce Farwest Food to the people of Kathmandu.
+Nicco Hotel now in it\'s fourth year currently provides training and employment oppurtunities to over 20 Nepalese staffs. Nicco Hotel aspired to become one of the best hotel and want to fulfill the needs of people by providing unique dishes. Also it want to create more jobs and help the Nepalese economy.
+
+Please take a look through our web site where you will find most of the information you need. Call us to discuss your hotel reservation, dining plans or function requirements.
+<h6>Find Some Unique Dishes</h6>
+<h2>Unique Listings</h2>
+<a href=\"#\">
+<img width=\"300\" height=\"168\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/6.jpg\" alt=\"\">								</a>
+<h6>Mada(made of rice flour)</h6>
+<a href=\"#\">
+<img width=\"330\" height=\"153\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/8.jpg\" alt=\"\" srcset=\"http://localhost/mysite/wp-content/uploads/2020/04/8.jpg 330w, http://localhost/mysite/wp-content/uploads/2020/04/8-300x139.jpg 300w\" sizes=\"(max-width: 330px) 100vw, 330px\">								</a>
+<h6>Bara</h6>
+<a href=\"#\">
+<img width=\"223\" height=\"226\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/9.jpg\" alt=\"\">								</a>
+<h6>Newari khana</h6>
+<a href=\"#\">
+<img width=\"512\" height=\"342\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/10.jpg\" alt=\"\" srcset=\"http://localhost/mysite/wp-content/uploads/2020/04/10.jpg 512w, http://localhost/mysite/wp-content/uploads/2020/04/10-300x200.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\">								</a>
+<h6>Selroti with aalu</h6>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/15.jpg\" alt=\"\">								</a>
+<h6>puri</h6>
+<a href=\"#\">
+<img width=\"284\" height=\"177\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/18.jpg\" alt=\"\">								</a>
+<h6>Abc</h6>
+<h6>We\'re Here To Help You</h6>
+<h2>What Are You Looking For?</h2>
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/welcome.png\" alt=\"\">
+<h3>warm welcome</h3>
+Hotel Nicco provides warm welcome to the guests. It is said that when making a great first impression, the first five seconds are key.&nbsp;&nbsp;A welcome goes beyond words, it creates a feeling of caring and gives a sense of pleasure. And our Hotel perform this role.&nbsp"
+Thursday, 24-Sep-2020 05:28:28 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<img width=\"265\" height=\"190\" src=\"http://localhost/mysite/wp-content/uploa' at line 1 - query : "<img width=\"265\" height=\"190\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/sm.png\" alt=\"\">
+<h3>Cheaper Price</h3>
+Our responsibilities is to manage the budget to maintain financial records, planning maintenance, events and the bookings for rooms.&nbsp;Access to a convenient as well as affordable food and lodging is turning from a plus to a must. We are very sure that Hotel Nicco would save your cost.
+
+<img width=\"205\" height=\"245\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/wifi.png\" alt=\"\">
+<h3>Free Wifi</h3>
+Hotel Nicco has fast and accessible network connection. Guests at all types of hotels demand some level of Internet service, but business hotels especially must offer the highest level of connectivity and flexibility.
+<h6>Trusted By</h6>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-05-free-img.png\" alt=\"logo-05-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-01-free-img.png\" alt=\"logo-01-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-02-free-img.png\" alt=\"logo-02-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-03-free-img.png\" alt=\"logo-03-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-04-free-img.png\" alt=\"logo-04-free-img.png\"></figure>
+Previous
+Next
+<ul>
+ 	<li>
+										+977 9848983054</li>
+</ul>
+<h2>Let\'s Find You Together The Place You Deserve</h2>
+We emphasise high quality standards in our rooms and food. Also, we provide a fair return on investment for our owners.
+
+Get in touch with us!!
+
+<a href=\"#\" role=\"button\">
+Thank You!!
+</a>", "Home", "", "inherit", "closed", "closed", "", "491-revision-v1", "", "", "2020-04-17 04:02:36", "2020-04-17 04:02:36", "", "491", "http://localhost/mysite/491-revision-v1/", "0", "revision", "", "0")"
+Thursday, 24-Sep-2020 05:28:28 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"<ul>
+ 	<li>
+					<a href=\"#\">
++977 9848983054
+</a></li>
+</ul>
+<h1>Welcome to ' at line 1 - query : "INSERT INTO wp_posts VALUES("692", "1", "2020-04-19 05:17:21", "2020-04-19 05:17:21", "<ul>
+ 	<li>
+					<a href=\"#\">
++977 9848983054
+</a></li>
+</ul>
+<h1>Welcome to Nicco Hotel!!</h1>
+\"It\'s not Perfect....It\'s Paradise\". The mission of our hotel is to provide outstanding lodging facilities and services to our guests. Our hotel focuses on individual business and leisure travel, safety and security of the hotel, clean and comfortable rooms, as well as travel associated with groups meetings.
+
+<a href=\"#\" role=\"button\">
+BOOK NOW
+</a>
+<h2>OUR SERVICES</h2>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/tasty.png\" alt=\"\">								</a>
+<h6>Hygienic Food</h6>
+<a href=\"#\">The role of <b>Hotel Nicco</b> in regards to Food Service is to ensure that whether customer\'s consuming food is prepared in safe conditions or not, out of fresh foods, and is thoroughly cooked to prevent food poisoning.  Our Hotel look after the customers health.</a>
+<a href=\"#\">
+<img width=\"259\" height=\"194\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/serve.png\" alt=\"\">								</a>
+<h6>serve well</h6>
+<a href=\"#\">Not matter how much hotels innovate, there are still some \"basic\" requirements that all properties should meet to make their experiences both welcoming and comforting to guests.</a>
+<a href=\"#\">
+<img width=\"235\" height=\"215\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/hd.png\" alt=\"\">								</a>
+<h6>Free home delivery</h6>
+<a href=\"#\">Our food ordering system is completely free. There is no need for the customer to reach out and make a call meanwhile disturbing their privacy or disrupting a meeting for a lunch order.</a>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/r.png\" alt=\"\">								</a>
+<h6>Comfort rooms</h6>
+<a href=\"#\">The role of <b>Hotel Nicco</b> in regards to room service is to ensure guest satisfaction. Our Hotel provides cleanliness standards, offering clean bathrooms and bedrooms. Promotes safety, as guests are able to stay inside their hotel.</a>
+<h6>Who We Are</h6>
+<h2>About Us</h2>
+Welcome to NICCO HOTEL. Nicco Hotel is a small independent family run hotel in Baneshor, Kathmandu. It was established as a start-up business in June 4, 2020 with a mission to introduce Farwest Food to the people of Kathmandu.
+Nicco Hotel now in it\'s fourth year currently provides training and employment oppurtunities to over 20 Nepalese staffs. Nicco Hotel aspired to become one of the best hotel and want to fulfill the needs of people by providing unique dishes. Also it want to create more jobs and help the Nepalese economy.
+
+Please take a look through our web site where you will find most of the information you need. Call us to discuss your hotel reservation, dining plans or function requirements.
+<h6>Find Some Unique Dishes</h6>
+<h2>Unique Listings</h2>
+<a href=\"#\">
+<img width=\"300\" height=\"168\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/6.jpg\" alt=\"\">								</a>
+<h6>Mada(made of rice flour)</h6>
+<a href=\"#\">
+<img width=\"330\" height=\"153\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/8.jpg\" alt=\"\" srcset=\"http://localhost/mysite/wp-content/uploads/2020/04/8.jpg 330w, http://localhost/mysite/wp-content/uploads/2020/04/8-300x139.jpg 300w\" sizes=\"(max-width: 330px) 100vw, 330px\">								</a>
+<h6>Bara</h6>
+<a href=\"#\">
+<img width=\"223\" height=\"226\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/9.jpg\" alt=\"\">								</a>
+<h6>Newari khana</h6>
+<a href=\"#\">
+<img width=\"512\" height=\"342\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/10.jpg\" alt=\"\" srcset=\"http://localhost/mysite/wp-content/uploads/2020/04/10.jpg 512w, http://localhost/mysite/wp-content/uploads/2020/04/10-300x200.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\">								</a>
+<h6>Selroti with aalu</h6>
+<a href=\"#\">
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/15.jpg\" alt=\"\">								</a>
+<h6>puri</h6>
+<a href=\"#\">
+<img width=\"284\" height=\"177\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/18.jpg\" alt=\"\">								</a>
+<h6>Abc</h6>
+<h6>We\'re Here To Help You</h6>
+<h2>What Are You Looking For?</h2>
+<img width=\"275\" height=\"183\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/welcome.png\" alt=\"\">
+<h3>warm welcome</h3>
+Hotel Nicco provides warm welcome to the guests. It is said that when making a great first impression, the first five seconds are key.&nbsp;&nbsp;A welcome goes beyond words, it creates a feeling of caring and gives a sense of pleasure. And our Hotel perform this role.&nbsp"
+Thursday, 24-Sep-2020 05:28:28 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<img width=\"265\" height=\"190\" src=\"http://localhost/mysite/wp-content/uploa' at line 1 - query : "<img width=\"265\" height=\"190\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/sm.png\" alt=\"\">
+<h3>Cheaper Price</h3>
+Our responsibilities is to manage the budget to maintain financial records, planning maintenance, events and the bookings for rooms.&nbsp;Access to a convenient as well as affordable food and lodging is turning from a plus to a must. We are very sure that Hotel Nicco would save your cost.
+
+<img width=\"205\" height=\"245\" src=\"http://localhost/mysite/wp-content/uploads/2020/04/wifi.png\" alt=\"\">
+<h3>Free Wifi</h3>
+Hotel Nicco has fast and accessible network connection. Guests at all types of hotels demand some level of Internet service, but business hotels especially must offer the highest level of connectivity and flexibility.
+<h6>Trusted By</h6>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-05-free-img.png\" alt=\"logo-05-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-01-free-img.png\" alt=\"logo-01-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-02-free-img.png\" alt=\"logo-02-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-03-free-img.png\" alt=\"logo-03-free-img.png\"></figure>
+<figure><img src=\"http://localhost/mysite/wp-content/uploads/2020/04/logo-04-free-img.png\" alt=\"logo-04-free-img.png\"></figure>
+Previous
+Next
+<ul>
+ 	<li>
+										+977 9848983054</li>
+</ul>
+<h2>Let\'s Find You Together The Place You Deserve</h2>
+We emphasise high quality standards in our rooms and food. Also, we provide a fair return on investment for our owners.
+
+Get in touch with us!!
+
+<a href=\"#\" role=\"button\">
+Thank You!!
+</a>", "Home", "", "inherit", "closed", "closed", "", "491-revision-v1", "", "", "2020-04-19 05:17:21", "2020-04-19 05:17:21", "", "491", "http://localhost/mysite/491-revision-v1/", "0", "revision", "", "0")"
+Thursday, 24-Sep-2020 05:28:29 - mysql query failed. error : 1065 Query was empty - query : ""
+Thursday, 24-Sep-2020 05:28:29 - database import finished
+Thursday, 24-Sep-2020 05:28:29 - search and replace started
+Thursday, 24-Sep-2020 05:28:29 - there are 24 tables to scan
+Thursday, 24-Sep-2020 05:28:31 - search and replace finished
+Thursday, 24-Sep-2020 05:28:31 - extracting archive using ziparchive
+Thursday, 24-Sep-2020 05:29:12 - copying files..
+Thursday, 24-Sep-2020 05:29:52 - deleting temp directory..
+Thursday, 24-Sep-2020 05:29:55 - deleting downloaded zip file..
+Thursday, 24-Sep-2020 05:29:55 - restore finished
